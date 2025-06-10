@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Marco Adrián</h1>
+<h1 align="center">👋 ¡Hola! Soy Marco Adrian</h1>
 
 <p align="center">
   <b>Data Analyst Junior | Machine Learning Enthusiast | Problem Solver</b><br>
