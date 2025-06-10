@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Marco Adrian GitHub Banner" style="width:100%;"/>
+
 <h1 align="center">👋 ¡Hola! Soy Marco Adrian</h1>
 
 <p align="center">
