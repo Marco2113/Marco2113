@@ -75,7 +75,7 @@ Soy un **Analista de Datos Junior** con enfoque técnico y experiencia práctica
 ---
 
 <p align="center">
-  <b>Gracias por visitar mi perfil 💙</b>
+  <b>Gracias por visitar mi perfil </b>
 </p>
 
 
